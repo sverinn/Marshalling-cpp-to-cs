@@ -20,7 +20,7 @@ namespace Marshalling
             [MarshalAs(UnmanagedType.LPStr)] //we read const char* 
             public string str;
 
-            public IntPtr items; //store a pointer (as int? no idea what's going on here)
+            public IntPtr items; //store a pointer
         }
 
         public static pItem getData()
