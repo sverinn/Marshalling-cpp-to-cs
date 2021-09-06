@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MarshallingDLL", "MarshallingDLL.vcxproj", "{A91A13F4-9576-4724-975E-4616D70628F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A91A13F4-9576-4724-975E-4616D70628F5}.Debug|x64.ActiveCfg = Debug|x64
+		{A91A13F4-9576-4724-975E-4616D70628F5}.Debug|x64.Build.0 = Debug|x64
+		{A91A13F4-9576-4724-975E-4616D70628F5}.Debug|x86.ActiveCfg = Debug|Win32
+		{A91A13F4-9576-4724-975E-4616D70628F5}.Debug|x86.Build.0 = Debug|Win32
+		{A91A13F4-9576-4724-975E-4616D70628F5}.Release|x64.ActiveCfg = Release|x64
+		{A91A13F4-9576-4724-975E-4616D70628F5}.Release|x64.Build.0 = Release|x64
+		{A91A13F4-9576-4724-975E-4616D70628F5}.Release|x86.ActiveCfg = Release|Win32
+		{A91A13F4-9576-4724-975E-4616D70628F5}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA01BFA9-995A-4608-A5EC-B4A64EF7C04D}
+	EndGlobalSection
+EndGlobal
